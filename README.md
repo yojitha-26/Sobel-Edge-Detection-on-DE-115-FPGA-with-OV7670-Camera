@@ -1,0 +1,2 @@
+# Sobel-Edge-Detection-on-DE-115-FPGA-with-OV7670-Camera
+Sobel Edge Detection on DE2-115 FPGA using the OV7670 camera, implemented entirely in Verilog HDL. Captures &amp; stores grayscale images in on-chip RAM, applies a 3×3 Sobel edge detection algorithm, and displays edge magnitude, binary edges, or grayscale images through VGA output. Includes simulation, testbench verification,  hardware implementation.
